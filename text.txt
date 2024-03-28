@@ -1,0 +1,5 @@
+Статья
+https://blog.stackademic.com/passport-jwt-authentication-in-nestjs-e3313d04de49
+
+Гит автора
+https://github.com/vishnucprasad/nest_auth
